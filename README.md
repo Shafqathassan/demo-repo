@@ -1,4 +1,4 @@
-# Demo 
+# DemoForEveryone 
 
 Description : This is my first code upload on github and guess what it would be ?
 .....
